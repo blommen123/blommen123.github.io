@@ -37,7 +37,7 @@ header {
    length: 323.75; 
  }
 
-section section .row {
+.row {
   height: 585px;
   width: 383;
   vertical-align: middle;
