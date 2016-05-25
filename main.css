@@ -49,7 +49,7 @@ img .row {
 section .row {
   height: 1170px;
   width: 766px;
-  
+  vertical-align: middle;
 }
 
 
