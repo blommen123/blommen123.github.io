@@ -45,10 +45,13 @@ img {
     vertical-align: middle;
     border: 0;
 }
-.col-sm-8 {
-  display: flex;
-  justify-content: flex-end;
+
+section .row {
+  height: 1170px;
+  width: 766px;
+  
 }
+
 
  
  
