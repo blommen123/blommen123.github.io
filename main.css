@@ -43,8 +43,8 @@ header {
  }
 
 section .row {
-  height: 1170px;
-  width: 766;
+  height: 585px;
+  width: 383;
   vertical-align: middle;
   float: right;
 }
@@ -60,6 +60,10 @@ section .row {
 }
 #dust4 {
    display: inline-block;
+}
+.row2 {
+  height: 585px;
+  width: 383px;
 }
 
 
