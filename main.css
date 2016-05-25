@@ -38,31 +38,14 @@ header {
  }
 
 section .row {
-  height: 585px;
-  width: 383;
+  height: 1170px;
+  width: 766;
   vertical-align: middle;
   float: right;
   margin: 0 0 30px;
 }
 
-#dust1 {
-  display: inline-block;
-}
-#dust2 {
-   display: inline-block;
-}
-#dust3 {
-   display: inline-block;
-}
-#dust4 {
-   display: inline-block;
-}
-section .row2 {
-  height: 585px;
-  width: 383px;
-  vertical-align: middle;
-  float: right;
-}
+
 
 
  
