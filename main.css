@@ -45,6 +45,10 @@ img {
     vertical-align: middle;
     border: 0;
 }
+.col-sm-8 {
+  display: flex;
+  justify-content: flex-end;
+}
 
  
  
