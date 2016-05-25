@@ -61,7 +61,7 @@ section .row {
   min-height: 1px;
   padding-right: 15px;
   padding-left: 15px;
-  display: table;
+  display: table-row;
  
 }
 
