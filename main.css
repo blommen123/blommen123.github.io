@@ -49,6 +49,13 @@ section .row {
   float: right;
 }
 
+#dust1 {
+  display: inline-block;
+}
+#dust2 {
+   display: inline-block;
+}
+
 
  
 
