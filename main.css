@@ -45,11 +45,15 @@ header {
 img .row {
     vertical-align: middle;
     border: 0;
+    display: table-row;
+     min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
 }
 
 section .row {
   height: 1170px;
-  width: 766px;
+  width: 766;
   vertical-align: middle;
   float: right;
 }
@@ -61,7 +65,7 @@ section .row {
   min-height: 1px;
   padding-right: 15px;
   padding-left: 15px;
-  display: table-row;
+ 
  
 }
 
