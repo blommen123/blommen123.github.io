@@ -11,8 +11,9 @@ header {
    display: flex;
    justify-content: flex-end;
  }
- .border {
+ header nav {
    display: flex;
   justify-content: flex-end;
  }
+ 
  
