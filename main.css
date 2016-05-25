@@ -36,9 +36,16 @@ header {
    margin: 0 0 30px;
   width: 100%;
  }
+ 
  .dust {
    width: 50%;
  }
+
+img {
+    vertical-align: middle;
+    border: 0;
+}
+
  
  
  
