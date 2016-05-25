@@ -32,11 +32,6 @@ header {
    color: #ffffff;
    
  }
- section section .row img{
-   margin: 0 0 30px;
-  width: 50%;
- }
- 
  .dust {
    width: 555px;
    length: 323.75; 
@@ -47,6 +42,7 @@ section section .row {
   width: 383;
   vertical-align: middle;
   float: right;
+  margin: 0 0 30px;
 }
 
 #dust1 {
