@@ -42,11 +42,6 @@ header {
    length: 323.75; 
  }
 
-img .row {
-    vertical-align: middle;
-    border: 0;
-}
-
 section .row {
   height: 1170px;
   width: 766;
