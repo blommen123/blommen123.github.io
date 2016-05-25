@@ -45,7 +45,11 @@ header {
 img .row {
     vertical-align: middle;
     border: 0;
-    display: table;
+    position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+    
    
   
 }
