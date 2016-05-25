@@ -61,9 +61,11 @@ section .row {
 #dust4 {
    display: inline-block;
 }
-.row2 {
+section .row2 {
   height: 585px;
   width: 383px;
+  vertical-align: middle;
+  float: right;
 }
 
 
