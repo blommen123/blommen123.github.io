@@ -41,7 +41,7 @@ header {
    width: 50%;
  }
 
-img {
+img .row {
     vertical-align: middle;
     border: 0;
 }
