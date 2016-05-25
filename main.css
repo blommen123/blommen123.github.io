@@ -23,4 +23,14 @@ header {
     
  }
  
+ .row { 
+   margin-right: -15px; 
+   margin-left: -15px;
+ }
+ p { 
+   margin: -1px 0 10px; 
+   
+ }
+ 
+ 
  
