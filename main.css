@@ -89,7 +89,7 @@ footer .border {
   justify-content: flex-end;
 }
 
-footer .row2 {
+footer .row {
   display: flex;
   align-items: center;
   border-radius: 2%;
