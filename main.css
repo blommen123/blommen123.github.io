@@ -1,6 +1,5 @@
 header {
   padding: 20px 0;
-  background-color: #191919;
 }
  
  header .row {
@@ -39,7 +38,7 @@ header {
  }
  
 body {
-  background-color: ;
+background-color: #191919;
 }
 .row2 {
 background-color: ;
