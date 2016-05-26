@@ -39,6 +39,9 @@ header {
 body {
   background-color: #252C31;
 }
+div row {
+justify-content: center;
+}
 
 
  
