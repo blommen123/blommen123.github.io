@@ -74,8 +74,8 @@ footer ul {
 }
 
 footer li img {
-  width: 32px;
-  height: 32px;
+  width: 40px;
+  height: 40px;
 }
 
 footer {
@@ -94,28 +94,5 @@ footer .row {
   align-items: center;
 } 
 
-#youtube {
-  width: 32px;
-  height: 32px;
-  
-}
- 
- #facebook {
-   width: 32px;
-   height: 32px;
-   
- }
- 
- #twitter {
-   width: 32px;
-   height: 32px;
-   
- }
- 
- #steam {
-   width: 10px;
-   height: 10px;
-   
- }
  
  
