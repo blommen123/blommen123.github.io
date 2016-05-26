@@ -48,7 +48,6 @@ background-color: ;
 justify-content: center;
 padding: 50px 100px 50px 170px;
 display: inline-block;
-outline: #00FF00 dotted thick;
 }
 #dustII {
   padding: 0px 0px 0px 41px;
@@ -66,6 +65,10 @@ p {
 
 h1 {
   color: #a1b1bc;
+}
+
+.bild {
+outline: #00FF00 dotted thick;
 }
 
 
