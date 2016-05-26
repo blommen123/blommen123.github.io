@@ -37,9 +37,10 @@ header {
  }
  
 body {
-  background-color: #252C31;
+  background-color: ;
 }
 .row2 {
+background-color: #252C31;
 justify-content: center;
 padding: 50px 100px 50px 100px;
 display: inline-block;
