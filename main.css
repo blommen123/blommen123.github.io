@@ -21,7 +21,6 @@ header {
     margin: auto;
     text-align: right;
     color: #a1b1bc;
-    align: right;
     
  }
  
@@ -70,6 +69,14 @@ h1 {
 .bild {
 }
 
+footer ul {
+  list-style: none;
+}
+
+footer li img {
+  width: 32px;
+  height: 32px;
+}
 
  
 
