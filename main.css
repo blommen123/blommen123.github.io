@@ -78,6 +78,15 @@ footer li img {
   height: 32px;
 }
 
+footer {
+  font-size: 12px;
+  padding: 20px 0;
+}
+
+footer .border {
+  display: flex;
+  justify-content: flex-end;
+}
  
 
  
