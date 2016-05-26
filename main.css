@@ -36,6 +36,7 @@ header {
  img {
    width: 555px;
    height: 323.75px;
+   border-radius: 2%;
  }
  
 body {
