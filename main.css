@@ -86,7 +86,7 @@ footer {
 footer .border {
   display: flex;
   justify-content: flex-end;
-  color: #161616;
+  background-color: #161616;
 }
  
 
