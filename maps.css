@@ -49,7 +49,8 @@ footer {
 footer .border {
   display: flex;
   justify-content: flex-end;
-   position: absolute;
+   position:absolute;
+   
 }
 
 footer .row2 {
