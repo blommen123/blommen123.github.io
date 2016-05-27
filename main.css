@@ -98,5 +98,13 @@ footer .row2 {
   padding: 0px 15px 0px 0px;
 } 
 
+.many {
+ width: 220px;
+ visibility: hidden;
+ position: absolute;
+ top: 100%;
+ left: -2px;
+ background-color: #000;
+}
  
  
