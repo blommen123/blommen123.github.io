@@ -44,13 +44,11 @@ footer {
   font-size: 12px;
   padding: 20px 0;
   background-color: #161616;
-  position:relative;
 }
 
 footer .border {
   display: flex;
   justify-content: flex-end;
-   position:relative;
    
 }
 
@@ -60,6 +58,18 @@ footer .row2 {
   padding: 0px 15px 0px 0px;
 } 
 
+.row2 {
+background-color: ;
+justify-content: center;
+padding: 50px 100px 50px 170px;
+display: inline-block;
+}
+
+header .row {
+   display: flex;
+   align-items: center;
+   width: 100%;
+}
 
 
 
@@ -108,4 +118,5 @@ footer .row2 {
     
   }
 </style>
+
     
