@@ -119,7 +119,7 @@ header .row {
   }
 </style>
 
-header a:hover {
+header a:link {
   text-decoration: none;
 }
 
