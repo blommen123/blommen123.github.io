@@ -44,12 +44,13 @@ footer {
   font-size: 12px;
   padding: 20px 0;
   background-color: #161616;
+  position:relative;
 }
 
 footer .border {
   display: flex;
   justify-content: flex-end;
-   position:absolute;
+   position:relative;
    
 }
 
