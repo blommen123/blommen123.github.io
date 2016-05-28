@@ -83,6 +83,7 @@ footer li img {
 }
 .nere {
   border: none;
+  display: inline-block;
 }
 
 footer {
