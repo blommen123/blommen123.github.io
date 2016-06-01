@@ -92,9 +92,14 @@ div .row3 {
 }
 div .row2 {
    display: inline-block;
-   margin: 0 auto;
-   position:fixed;
-   width: 800px;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 1122px;
+  height: 423px;
 }
 
 
