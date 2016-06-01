@@ -94,8 +94,8 @@ div .row2 {
    align-items: center;
    justify-content: center;
    display: inline-block;
-   margin:0 auto;
-   
+   margin: 0 auto;
+   position:fixed;
 }
 
 
