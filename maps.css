@@ -83,28 +83,13 @@ header a:link {
   text-decoration: none;
 }
 section .border {
-  width: 970px;
-  height: 1170px;
+ 
   background-image: url("https://i.ytimg.com/vi/ck0jDQGh4HE/maxresdefault.jpg");
 }
 
 div .row3 {
 display: flex;
 align-items: center;
-width: 970px;
-height: 1170px;
-
-}
-
-iframe {
-   display: block;
-    margin: 0 auto;
-    vertical-align: middle;
-
-}
-
-.iframe1 {
-   padding: 100px 0 0 0;
 }
 
 
