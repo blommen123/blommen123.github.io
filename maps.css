@@ -90,7 +90,11 @@ div .row3 {
   justify-content: center;
   padding: 50px 100px 50px 170px;
 }
-
+div .row2 {
+   align-items: center;
+   justify-content: center;
+   display: inline-block;
+}
 
 
     
