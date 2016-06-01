@@ -125,7 +125,8 @@ header a:link {
 
 .row3 {
 inline-block: ;
-align-item: center;
+align-items: center;
+display: flex;
   
 }
 
