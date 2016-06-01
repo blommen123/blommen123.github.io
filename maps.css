@@ -83,7 +83,7 @@ header a:link {
   text-decoration: none;
 }
 
-.iframe3 {
+.iframe {
   width: 420px;
   height: 315px;
   
@@ -92,6 +92,8 @@ header a:link {
 div .row3 {
   align-items: center;
   display: inline-block;
+  justify-content: center;
+  padding: 50px 100px 50px 170px;
 }
 
 
