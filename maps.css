@@ -1,9 +1,3 @@
-div .border {
-  width: 100%;
-  align-items: center;
-   display: flex;
-   height:100%;
-}
 
 header {
   padding: 20px 0;
@@ -28,43 +22,8 @@ header {
     body {
      background-color: #191919;
      }
-     
-     
-     footer ul {
-  list-style: none;
-}
 
-footer li img {
-  width: 45px;
-  height: 45px;
-  inline-block:
-  
-}
 
-footer {
-  font-size: 12px;
-  padding: 20px 0;
-  background-color: #161616;
-}
-
-footer .border {
-  display: flex;
-  justify-content: flex-end;
-   
-}
-
-footer .row2 {
-  display: flex;
-  align-items: center;
-  padding: 0px 15px 0px 0px;
-} 
-
-.row2 {
-background-color: ;
-justify-content: center;
-padding: 50px 100px 50px 170px;
-display: inline-block;
-}
 
 header .row {
    display: flex;
