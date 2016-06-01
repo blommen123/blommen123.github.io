@@ -135,7 +135,7 @@ height: 1170px;
 
 }
 
-iframe {
+iframe .iframe {
    display: block;
     margin: 0 auto;
     vertical-align: middle;
