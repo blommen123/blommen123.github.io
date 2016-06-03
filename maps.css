@@ -93,11 +93,14 @@ div .row3 {
 div .row2 {
    display: inline-block;
   position: absolute;
-  margin: 0px 0px 0px 300px;
   width: 1122px;
   height: 423px;
-  top: 50%;
-  left: 50%;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+  
 }
 .iframe {
   margin: 0px 0px 250px 0;
