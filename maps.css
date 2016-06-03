@@ -134,7 +134,7 @@ footer .border {
 footer .row2 {
   display: flex;
   align-items: center;
-  padding: 0px 15px 0px 0px;
+  padding: 0px 15px 0px 50px;
 } 
 
 header a:link {
