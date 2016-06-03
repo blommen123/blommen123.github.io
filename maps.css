@@ -85,10 +85,9 @@ header a:link {
 
 
 div .row3 {
-  align-items: center;
+  
   display: inline-block;
-  justify-content: center;
-  padding: 50px 100px 50px 170px;
+  
 }
 div .row2 {
   width: 1887px;
