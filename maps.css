@@ -97,6 +97,12 @@ div .row2 {
   justify-content: center;
   padding: 50px 100px 50px 250px;
 }
+figure .row4 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  
+}
 
 
 
