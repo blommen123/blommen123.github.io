@@ -124,15 +124,16 @@ footer li img {
 }
 
 footer {
-  font-size: 12px;
-  background-color: #161616;
+width: 100%;
+ bottom: 0;
+ position: fixed;
+background-color: #161616;
 
 
 }
 
 footer .border {
-   bottom: 0px;
-position: fixed;
+
 }
 
 footer .row2 {
