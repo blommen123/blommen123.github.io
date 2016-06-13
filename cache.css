@@ -126,6 +126,9 @@ footer li img {
 footer {
   font-size: 12px;
   background-color: #161616;
+  bottom: 0px;
+position: fixed;
+
 }
 
 footer .border {
