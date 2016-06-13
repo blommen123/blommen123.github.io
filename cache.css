@@ -125,9 +125,12 @@ footer li img {
 
 footer {
 width: 100%;
- bottom: 0;
-position: absolute;
 background-color: #161616;
+ position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
 }
 
 footer .row2 {
