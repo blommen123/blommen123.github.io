@@ -14,13 +14,13 @@
 
 
 // Instagram Client ID
-define( 'IGCID', '6ce4e473d32b46e7b59262b8a4819b1b' );
+define( 'IGCID', '309b5f022957439299d2584933cb1dfa' );
 
 // Instagram Client Secret
-define( 'IGCS', '51117a4657ad49e9b9f6f0bac62fd846' );
+define( 'IGCS', '6ee5a13216544a1e8138606acbe0163f ' );
 
 // Instagram Redirect URI
-define( 'IGRURI', 'http://jabran.me/sandbox/igapi/' );
+define( 'IGRURI', 'http://blommen123.github.io/' );
 
 /** 
  * Instagram Scope / Permissons / 
